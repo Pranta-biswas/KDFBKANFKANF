@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+     margin-top: 50px;
+}
+
+.btn{
+   width: 434px;
+   margin: auto;
+   height:;
+   margin-bottom: 20px;
+   margin-top: 50px;
+}
+
+.show-hide button{
+    margin: auto;
+    padding: 10px 13px;
+    font-size: 20px;
+    text-transform: capitalize;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.show-hide{
+    width: 500px;
+    background-color: aqua;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.section-2{
+    margin-top: 20px;
+}
+
+.section-3{
+    margin-top: 20px;
+}
+
+.section-3 .btn{
+    width: 500px;
+}
+
+.section-4 .color{
+    color: red;
+    font-size: 50px;
+}
